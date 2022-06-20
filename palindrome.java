@@ -1,6 +1,6 @@
 package Loop;
 import java.util.*;
-class palindrom  {  
+class palindrome  {  
    public static void main(String args[])  { 
 	   
       String original, reverse = ""; // Objects of String class  
