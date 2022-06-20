@@ -1,6 +1,6 @@
 package Loop;
 import java.util.*;
-class palindrom_number{  
+class palindrome_number{  
  
 		 public static void main(String args[]){  
 		  int r,sum=0,temp;    
